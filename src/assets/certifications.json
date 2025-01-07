@@ -1,0 +1,22 @@
+{
+    "certification1": {
+        "name": "Blockchain Fundamentals",
+        "image": "/certifications/blockchain.jpg",
+        "link": "https://66a5270994ed984718cd761f--verdant-pavlova-8da165.netlify.app/"
+    },
+    "certification2": {
+        "name": "Blockchain Basics",
+        "image": "/certifications/blockchain_basics.png",
+        "link": "https://send-crypto-xwe4.vercel.app/"
+    },
+    "certification3": {
+        "name": "Backend development",
+        "image": "/certifications/backend.png",
+        "link": "https://sorting-visualizer-seven-beta.vercel.app/"
+    },
+    "certification4": {
+        "name": "SQL",
+        "image": "/certifications/sql.png",
+        "link": "https://sorting-visualizer-seven-beta.vercel.app/"
+    }
+}

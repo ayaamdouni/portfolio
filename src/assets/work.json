@@ -1,0 +1,33 @@
+{
+    "work1": {
+        "company": "K2Lis",
+        "duration": "Feb. 2024 ~ July 2024",
+        "post": "Blockchain and Fullstack Js Intern",
+        "tasks": ["Implemented a blockchain-based protocol 'Proof of Encounter' that ensured cryptographic proof of device encounters.", 
+        "Reduced protocol execution time to as low as 12.1 seconds on efficient blockchains such as Etherlink, compared to 40.8 seconds on Ethereum, demonstrating up to a 70% improvement in speed", 
+        "Achieved transaction costs as low as $0.0025 per interaction on optimized blockchains like Fantom, offering a 90% reduction in fees compared to traditional Ethereum implementations."],
+        "keywords": ["blockchain", "Cryptography", "ethereum"],
+        "image": "/images/blockchain.png"
+    },
+    "work2": {
+        "company": "National School of Engineers of Carthage",
+        "duration": "Feb. 2023 ~ June 2023",
+        "post": "Final Year Project",
+        "tasks": [
+            "Developed a machine learning model for pothole detection in road images",
+            "Extracted and analyzed features using manual thresholding and rule-based algorithms for initial identification",
+            "Trained models using a labeled dataset of 265 road images and applied the YOLO v4 model to predict pothole presence",
+            "Achieved a 99% accuracy in identifying potholes using optimized techniques"
+        ],
+        "keywords": ["machine learning", "python", "jupyter", "YOLO", "image processing"],
+        "image": "/images/machine_learning.png"
+    },
+    "work3": {
+        "company": "Asteelflash",
+        "duration": "June. 2022 ~ July 2022",
+        "post": "Intern",
+        "tasks": ["Collected energy consumption data every 2 hours to analyze consumption and identify peak value."],
+        "keywords": ["Microsoft Excel"],
+        "image": "/images/excel.png"
+    }
+}

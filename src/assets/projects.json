@@ -1,0 +1,17 @@
+{
+    "project1": {
+        "name": "Crowdfunding platform",
+        "image": "/projects/crowdfunding_platform.jpg",
+        "link": "https://66a5270994ed984718cd761f--verdant-pavlova-8da165.netlify.app/"
+    },
+    "project2": {
+        "name": "Send Crypto",
+        "image": "/projects/send_crypto.jpg",
+        "link": "https://send-crypto-xwe4.vercel.app/"
+    },
+    "project3": {
+        "name": "Sorting Visualizer",
+        "image": "/projects/sorting_visualizer.jpg",
+        "link": "https://sorting-visualizer-seven-beta.vercel.app/"
+    }
+}

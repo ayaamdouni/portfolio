@@ -1,0 +1,45 @@
+{
+    "Programming Languages":{ 
+        "image": "/icons/programming.png",
+        "items": [
+        "Javascript",
+        "Solidity",
+        "Java",
+        "Python"
+    ]},
+    "Blockchain": {
+        "image": "/icons/blockchain.png",
+        "items": [
+        "Ethereum",
+        "Metamask",
+        "Remix",
+        "web3.js",
+        "viem"
+    ]},
+    "Data storage": {
+        "image": "/icons/storage.png",
+        "items": [
+        "MongoDB",
+        "SQL"
+    ]},
+    "Devops": {
+        "image": "/icons/devops.png",
+        "items": [
+        "Docker",
+        "Git"
+    ]},
+    "Client side": {
+        "image": "/icons/client_side.png",
+        "items": [
+        "React",
+        "React Native",
+        "TailwindCSS"
+    ]},
+    "Server side": {
+        "image": "/icons/server_side.png",
+        "items": [
+        "Node",
+        "Express",
+        "Jwt"
+    ]}
+}
